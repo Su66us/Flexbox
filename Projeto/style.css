@@ -243,13 +243,15 @@ header .menu{
 footer{
     background-color: #122a57;
     height: 70px;
-    display: flex;
+    
 
 }
 
-footer .footer{
-    justify-content:space-between ;
+.footer{
+    justify-content: space-between;
+    min-width: 25px;
     color: #fff;
+    color: white;
 }
 
 /*Mobile*/
